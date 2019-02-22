@@ -1,0 +1,26 @@
+{
+  "SpotPrice": "0.0418",
+  "LaunchSpecification": {
+    "ImageId": "ami-39c28c41",
+    "InstanceType": "t3.medium",
+    "KeyName": "bip-pygroup",
+    "BlockDeviceMappings": [
+      {
+        "DeviceName": "/dev/sda1",
+        "Ebs": {
+          "DeleteOnTermination": true,
+          "VolumeType": "gp2",
+          "VolumeSize": 8,
+          "SnapshotId": "snap-09d9ac6ae7381f1ce"
+        }
+      }
+    ],
+    "AllSecurityGroups": [
+      {
+        "GroupId": "sg-a01781da"
+      }
+    ]
+  },
+  "InstanceCount": 1,
+  "BlockDurationMinutes": 60
+}
