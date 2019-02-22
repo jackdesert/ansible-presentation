@@ -1,5 +1,4 @@
 {
-  "SpotPrice": "0.0418",
   "LaunchSpecification": {
     "ImageId": "ami-39c28c41",
     "InstanceType": "t3.medium",
@@ -21,6 +20,5 @@
       }
     ]
   },
-  "InstanceCount": 1,
   "BlockDurationMinutes": 60
 }
