@@ -83,4 +83,63 @@ User module:
   * Create a user named "fred" on each host
 
 
+8. Flashy New Website
+---------------------
+
+Load the IP address of one of your hosts in a web browser.
+
+Now see if you can stop the service named 'flask-demo' on each host
+and refresh the web browser
+
+
+8. Playbooks
+------------
+
+Playbooks are useful when you want something repeatable.
+
+Save this basic playbook as my_playbook.yml. It checks out a different branch
+of the Flashy New Website and then restarts flask-demo.
+
+
+- hosts: all
+  become: yes
+  become_user: ubuntu
+  tasks:
+    - git:
+        repo: http://git@github.com/jackdesert/ansible-presentation-app
+        dest: /home/ubuntu/ansible-presentation-app
+        version: green
+
+- hosts: all
+  tasks:
+    - systemd:
+        enabled: yes
+        state: restarted
+        daemon_reload: yes
+        name: flask-demo.service
+
+
+
+
+Invoke as `ansible-playbook my_playbook.yml --sudo`
+
+Note this playbook run with the --sudo flag so it can do
+superuser things for systemd.
+Also note that the git task needs to run as the normal ubuntu user,
+that's why it has the "become" and "become_user".
+
+After you've got that running, load the Flashy New Website
+on one of your hosts. Background will be green now.
+
+9. Extra
+--------
+
+Use ansible to get the "redis-counter" branch running on your hosts.
+
+This branch requires you to pip install the "redis" package to the
+virtualenv at /home/ubuntu/ansible-presentation-app/env.
+
+This branch also requires you to install "redis-tools" via apt.
+
+When complete, the page will count how many time the pages has been visited.
 

@@ -96,7 +96,7 @@ Launch Instances
     aws ec2 request-spot-instances \
         --spot-price "0.1" \
         --instance-count 1 \
-        --block-duration-minutes 60 \
+        --block-duration-minutes 240 \
         --launch-specification file://config/spot-request.json
 
 
