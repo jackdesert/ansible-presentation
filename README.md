@@ -54,6 +54,29 @@ Install rpl
 
     sudo apt update && sudo apt install rpl
 
+Install pip and venv
+
+    sudo apt install python3-pip python3-venv
+
+Pull repo and install python modules
+
+    cd ~
+    git clone git@github.com:jackdesert/ansible-presentation-app
+    cd ansible-presentation-app
+    python3 -m venv env
+    env/bin/pip install flask requests
+
+Symlinks for nginx config and systemd config
+
+    -
+    -
+
+Enable systemd unit
+
+    -
+
+
+
 
 Which Images to Use
 -------------------
@@ -63,6 +86,7 @@ pygroup-1:      ami-0845872dfc3cdcdac (most config)
 pygroup-10:     ami-03e152304effc1a43 (most config + ~/.ansible.cfg + python symlink)
 pygroup-11      ami-021783961b323fadb (includes correct symlink)
 pygroup-12      ami-04ac3128fa16bf37e (includes rpl)
+pygroup-13      ami-02a0d8064174dd811 (running flask app)
 
 
 Launch Instances
