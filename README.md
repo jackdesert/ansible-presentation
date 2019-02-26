@@ -87,6 +87,7 @@ pygroup-10:     ami-03e152304effc1a43 (most config + ~/.ansible.cfg + python sym
 pygroup-11      ami-021783961b323fadb (includes correct symlink)
 pygroup-12      ami-04ac3128fa16bf37e (includes rpl)
 pygroup-13      ami-02a0d8064174dd811 (running flask app)
+pygroup-14      ami-04d998f44a60e307d (renamed service to flask-app)
 
 
 Launch Instances

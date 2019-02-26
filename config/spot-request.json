@@ -1,5 +1,5 @@
 {
-  "ImageId": "ami-02a0d8064174dd811",
+  "ImageId": "ami-04d998f44a60e307d",
   "InstanceType": "t3.medium",
   "KeyName": "bip-pygroup",
   "SecurityGroupIds": ["sg-a01781da"]
