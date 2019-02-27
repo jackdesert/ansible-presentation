@@ -5,21 +5,19 @@ Ansible Presentation
 Credentials
 -----------
 
-credentials are kept in
+My credentials are kept in ~/.
 aws_user: pygroup
 access_key_id: AKIAIY7QGRGEXSEK7EAA
 
-Setup
------
+Setup the AMI
+-------------
 
 Create a password
 
     sudo passwd ubuntu #rayndrop
 
-    # Passwords are not usable after images is launched. Try this:
-    echo 'ubuntu:friend' | sudo chpasswd
-
-    Because an "!" is added to /etc/shadow
+    # Password will be locked after AMI is launched.
+    # We will deal with this later by editing /etc/shadow
 
 Remove the writable flag on motd files
 
@@ -111,7 +109,7 @@ using ansible.
 
 ### Update /etc/ansible/hosts
 
-First run this:
+First run this on your local machine:
 
     aws ec2 describe-instances --filters aws ec2 describe-instances --filters "Name=key-name,Values=bip-pygroup" | grep PublicIpAddress | sudo tee /etc/ansible/hosts
 
@@ -127,6 +125,9 @@ Then open /etc/ansible/hosts and trim it down to the proper format
 
 Distribute Paper Copies of Tutorial and IP Addresses
 ----------------------------------------------------
+
+    cat /etc/ansible/hosts| lp -o page-left=50 -o cpi=8  -o lpi=4
+
 
 
 CHECK

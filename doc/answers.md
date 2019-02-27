@@ -1,6 +1,28 @@
 Notes
 =====
 
+Ad-Hoc Commands
+---------------
+
+Install nodejs via apt:
+
+    ansible all -m apt -a "name=nodejs state=present" --become
+
+Copy a file
+
+    ansible all -m copy -a "src=/etc/passwd dest=/tmp/passwd"
+
+Create a user
+
+    ansible all -m user -a "name=fred state=present" --become
+
+Stop Service
+
+    ansible all -m service -a 'name=flask-demo state=stopped' --become
+
+Playbooks
+---------
+
 Pip module:
 
 https://docs.ansible.com/ansible/latest/modules/pip_module.html?highlight=pip
@@ -39,7 +61,7 @@ Playbook that Worked for Me
 
 ### Invoking
 
-    ansible-playbook my_playbook.yml --sudo
+    ansible-playbook my_playbook.yml --become
 
 ### Why two plays?
 

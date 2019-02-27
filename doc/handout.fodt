@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2019-02-27T07:34:22.780346522</meta:creation-date><dc:date>2019-02-27T07:57:48.801482487</dc:date><meta:editing-duration>PT23M25S</meta:editing-duration><meta:editing-cycles>3</meta:editing-cycles><meta:generator>LibreOffice/6.1.5.1$Linux_X86_64 LibreOffice_project/10$Build-1</meta:generator><meta:print-date>2019-02-27T07:54:17.903597543</meta:print-date><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="3" meta:paragraph-count="77" meta:word-count="450" meta:character-count="2808" meta:non-whitespace-character-count="2300"/></office:meta>
+ <office:meta><meta:creation-date>2019-02-27T07:34:22.780346522</meta:creation-date><dc:date>2019-02-27T09:54:07.426555690</dc:date><meta:editing-duration>PT27M40S</meta:editing-duration><meta:editing-cycles>6</meta:editing-cycles><meta:generator>LibreOffice/6.1.5.1$Linux_X86_64 LibreOffice_project/10$Build-1</meta:generator><meta:print-date>2019-02-27T07:54:17.903597543</meta:print-date><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="3" meta:paragraph-count="76" meta:word-count="492" meta:character-count="3109" meta:non-whitespace-character-count="2547"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">34</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">70182</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">29644</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">45355</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">33990</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">15242</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">10340</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">24654</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">18870</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">82504</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">34</config:config-item>
-     <config:config-item config:name="VisibleRight" config:type="long">29642</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">45387</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">70182</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">33988</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">85422</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -42,7 +42,7 @@
    <config:config-item config:name="DoNotJustifyLinesWithManualBreak" config:type="boolean">false</config:config-item>
    <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
    <config:config-item config:name="IgnoreFirstLineIndentInNumbering" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">qwH+/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAAAzAAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9aHAtZW52eQpvcmllbnRhdGlvbj1Qb3J0cmFpdApjb3BpZXM9MQpjb2xsYXRlPWZhbHNlCm1hcmdpbmRhanVzdG1lbnQ9MCwwLDAsMApjb2xvcmRlcHRoPTI0CnBzbGV2ZWw9MApwZGZkZXZpY2U9MQpjb2xvcmRldmljZT0wClBQRENvbnRleERhdGEKUGFnZVNpemU6TGV0dGVyAER1cGxleDpOb25lAElucHV0U2xvdDpVcHBlcgAAEgBDT01QQVRfRFVQTEVYX01PREUPAER1cGxleE1vZGU6Ok9mZg==</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">jwH+/2hwLWVudnkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpocC1lbnZ5AAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAsAAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9aHAtZW52eQpvcmllbnRhdGlvbj1Qb3J0cmFpdApjb3BpZXM9MQpjb2xsYXRlPWZhbHNlCm1hcmdpbmRhanVzdG1lbnQ9MCwwLDAsMApjb2xvcmRlcHRoPTI0CnBzbGV2ZWw9MApwZGZkZXZpY2U9MQpjb2xvcmRldmljZT0wClBQRENvbnRleERhdGEKUGFnZVNpemU6TGV0dGVyAAASAENPTVBBVF9EVVBMRVhfTU9ERQ8ARHVwbGV4TW9kZTo6T2Zm</config:config-item>
    <config:config-item config:name="CollapseEmptyCellPara" config:type="boolean">true</config:config-item>
    <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
    <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
@@ -88,12 +88,12 @@
    <config:config-item config:name="DoNotCaptureDrawObjsOnPage" config:type="boolean">false</config:config-item>
    <config:config-item config:name="ClipAsCharacterAnchoredWriterFlyFrames" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrintBlackFonts" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="DisableOffPagePositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DisableOffPagePositioning" config:type="boolean">true</config:config-item>
    <config:config-item config:name="SurroundTextWrapSmall" config:type="boolean">false</config:config-item>
    <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
    <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrintRightPages" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">1464447</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">1819357</config:config-item>
    <config:config-item config:name="MathBaselineAlignment" config:type="boolean">true</config:config-item>
    <config:config-item config:name="MsWordCompTrailingBlanks" config:type="boolean">false</config:config-item>
    <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
@@ -120,7 +120,9 @@
  </office:settings>
  <office:scripts>
   <office:script script:language="ooo:Basic">
-   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ooo:library-embedded ooo:name="Standard"/>
+   </ooo:libraries>
   </office:script>
  </office:scripts>
  <office:font-face-decls>
@@ -259,11 +261,32 @@
   <style:style style:name="P2" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties officeooo:rsid="0016587f" officeooo:paragraph-rsid="0016587f"/>
   </style:style>
+  <style:style style:name="P3" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:paragraph-rsid="0016587f"/>
+  </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties officeooo:rsid="0016587f"/>
   </style:style>
+  <style:style style:name="T2" style:family="text">
+   <style:text-properties officeooo:rsid="0016f255"/>
+  </style:style>
+  <style:style style:name="T3" style:family="text">
+   <style:text-properties officeooo:rsid="00174a47"/>
+  </style:style>
+  <style:style style:name="T4" style:family="text">
+   <style:text-properties officeooo:rsid="0018cfa6"/>
+  </style:style>
+  <style:style style:name="T5" style:family="text">
+   <style:text-properties officeooo:rsid="0019fa45"/>
+  </style:style>
+  <style:style style:name="T6" style:family="text">
+   <style:text-properties officeooo:rsid="001a4403"/>
+  </style:style>
+  <style:style style:name="T7" style:family="text">
+   <style:text-properties officeooo:rsid="001bc2dd"/>
+  </style:style>
   <style:page-layout style:name="pm1">
-   <style:page-layout-properties fo:page-width="8.5in" fo:page-height="11in" style:num-format="1" style:print-orientation="portrait" fo:margin-top="0.7874in" fo:margin-bottom="0.7874in" fo:margin-left="0.7874in" fo:margin-right="0.7874in" style:writing-mode="lr-tb" style:footnote-max-height="0in">
+   <style:page-layout-properties fo:page-width="8.5in" fo:page-height="11in" style:num-format="1" style:print-orientation="portrait" fo:margin-top="0.7874in" fo:margin-bottom="0.7874in" fo:margin-left="0.7874in" fo:margin-right="0.7874in" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="20" style:layout-grid-base-height="0.278in" style:layout-grid-ruby-height="0.139in" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:footnote-max-height="0in">
     <style:footnote-sep style:width="0.0071in" style:distance-before-sep="0.0398in" style:distance-after-sep="0.0398in" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
    </style:page-layout-properties>
    <style:header-style/>
@@ -284,7 +307,7 @@
     <text:sequence-decl text:display-outline-level="0" text:name="Figure"/>
    </text:sequence-decls>
    <text:h text:style-name="Heading_20_1" text:outline-level="1">Using Ansible</text:h>
-   <text:p text:style-name="P2">By Jack Desert &lt;<text:a xlink:type="simple" xlink:href="mailto:jdbip@riseup.net" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">jdbip@riseup.net</text:a>&gt;</text:p>
+   <text:p text:style-name="P2"><text:span text:style-name="T2">b</text:span>y Jack Desert &lt;<text:a xlink:type="simple" xlink:href="mailto:jdbip@riseup.net" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">jdbip@riseup.net</text:a>&gt;</text:p>
    <text:p text:style-name="P2"/>
    <text:p text:style-name="Standard"><text:span text:style-name="T1">Ansible </text:span>Docs: docs.ansible.com/ansible</text:p>
    <text:p text:style-name="Standard"/>
@@ -329,10 +352,10 @@
    <text:p text:style-name="Standard"/>
    <text:h text:style-name="Heading_20_3" text:outline-level="3">6. What was set up already to allow this to happen?</text:h>
    <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard">Run these commands if you want to see what</text:p>
+   <text:p text:style-name="Standard"><text:span text:style-name="T2">(Optional) </text:span>Run these commands if you want to see</text:p>
    <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>cat ~/.ansible.cfg</text:p>
-   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>cat ~/.ssh/authorized_keys</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>cat ~/.ansible.cfg <text:s text:c="8"/><text:span text:style-name="T2"># on master</text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>cat ~/.ssh/authorized_keys <text:span text:style-name="T2"># on hosts</text:span></text:p>
    <text:p text:style-name="Standard"/>
    <text:p text:style-name="Standard"/>
    <text:h text:style-name="Heading_20_3" text:outline-level="3">7. Ad-Hoc Commands</text:h>
@@ -342,10 +365,10 @@
    <text:p text:style-name="Standard"/>
    <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>ansible all -a &apos;ls /tmp&apos;</text:p>
    <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard">(Log in to one of the hosts and make sure the file arrived)</text:p>
+   <text:p text:style-name="Standard"><text:span text:style-name="T3">Using the same pattern, complete the following:</text:span></text:p>
    <text:p text:style-name="Standard"/>
    <text:p text:style-name="Standard"><text:s text:c="2"/>* View the last ten lines of /var/log/nginx/access.log on each host</text:p>
-   <text:p text:style-name="Standard"><text:s text:c="2"/>* List the contents of the /tmp directory on each host</text:p>
+   <text:p text:style-name="Standard"><text:s text:c="2"/>* <text:span text:style-name="T3">Check how much disk space available on each host </text:span></text:p>
    <text:p text:style-name="Standard"><text:s text:c="2"/>* Check which version of git is installed on each host</text:p>
    <text:p text:style-name="Standard"/>
    <text:p text:style-name="Standard"/>
@@ -365,8 +388,7 @@
    <text:p text:style-name="Standard"/>
    <text:p text:style-name="Standard">Load the IP address of one of your hosts in a web browser.</text:p>
    <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard">Now see if you can stop the service named &apos;flask-demo&apos; on each host</text:p>
-   <text:p text:style-name="Standard">and refresh the web browser</text:p>
+   <text:p text:style-name="Standard">Now <text:span text:style-name="T4">use the docs for the Service module to st</text:span>op the service named &apos;flask-demo&apos; on each host. <text:span text:style-name="T4">Then</text:span> refresh the web browser <text:span text:style-name="T5">to see a 502 Bad Gateway error from Nginx. And finally, start the service and refresh again to see the page working again.</text:span></text:p>
    <text:p text:style-name="Standard"/>
    <text:p text:style-name="Standard"/>
    <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:soft-page-break/><text:span text:style-name="T1">9</text:span>. Playbooks</text:h>
@@ -398,23 +420,23 @@
    <text:p text:style-name="Standard"/>
    <text:p text:style-name="P1">Invoke <text:span text:style-name="T1">this playbook as:</text:span></text:p>
    <text:p text:style-name="P1"/>
-   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>ansible-playbook my_playbook.yml --sudo</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>ansible-playbook my_playbook.yml --<text:span text:style-name="T4">become</text:span></text:p>
    <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard">Note this playbook run with the --sudo flag so it can do <text:span text:style-name="T1">s</text:span>uperuser things for systemd.</text:p>
+   <text:p text:style-name="Standard">Note this playbook run with the --<text:span text:style-name="T4">become</text:span> flag so it can do <text:span text:style-name="T1">s</text:span>uperuser things for systemd.</text:p>
    <text:p text:style-name="Standard">Also note that the git task needs to run as the normal ubuntu user, that&apos;s why it has the &quot;become&quot; and &quot;become_user&quot;.</text:p>
    <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard">After you&apos;ve got that running, load the Flashy New Websiteon one of your hosts. Background will be green now.</text:p>
+   <text:p text:style-name="Standard">After you&apos;ve got that running, load the Flashy New Website on one of your hosts. Background will be green now.</text:p>
    <text:p text:style-name="Standard"/>
    <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:span text:style-name="T1">10</text:span>. <text:span text:style-name="T1">Extra</text:span></text:h>
    <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard">Use ansible to get the &quot;redis-counter&quot; branch running on your hosts.</text:p>
+   <text:p text:style-name="Standard"><text:span text:style-name="T6">Expand my_playbook.yml so that it deploys the </text:span>&quot;redis-counter&quot; branch <text:span text:style-name="T6">of ansible-presentation-app. </text:span></text:p>
    <text:p text:style-name="Standard"/>
-   <text:p text:style-name="P1">This branch requires you to pip install the &quot;redis&quot; package to the virtualenv at </text:p>
-   <text:p text:style-name="P1">/home/ubuntu/ansible-presentation-app/env.</text:p>
+   <text:p text:style-name="P1">This branch <text:span text:style-name="T6"><text:s/></text:span>requires you to pip install the &quot;redis&quot; package to the virtualenv at </text:p>
+   <text:p text:style-name="P1">/home/ubuntu/ansible-presentation-app/env. <text:span text:style-name="T6">(See docs for the “pip” ansible module.)</text:span></text:p>
    <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard">This branch also requires you to install &quot;redis&quot; via apt.</text:p>
+   <text:p text:style-name="Standard">This branch also requires you to install &quot;redis&quot; via apt. <text:span text:style-name="T7">(See docs for the “apt” ansible module.)</text:span></text:p>
    <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard">When complete, the page will count how many time the pages has been visited.</text:p>
+   <text:p text:style-name="Standard"><text:span text:style-name="T7">Once deployed, </text:span>the <text:span text:style-name="T7">Flashy Website </text:span>will count how many time<text:span text:style-name="T7">s</text:span> the pages has been visited.</text:p>
   </office:text>
  </office:body>
 </office:document>
